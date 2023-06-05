@@ -1,0 +1,24 @@
+# Visual Studio 2022
+
+# User specific files
+*.suo
+.vs/
+
+# Build results
+[Pp]Objects/
+[Pp]Bin/
+[Pp]Debug/
+[Pp]Release/
+
+# Min Relays/
+nuget.config
+*.cserr
+
+# Performance tracing files
+*.evc
+
+# Resharper
+JoetPath.map
+*.ResharperUser
+*.cache
+*.CsProjectItems.Cache
